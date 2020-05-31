@@ -2,7 +2,7 @@
 
 	Todo is a todo list app which build with Django-Rest-Framework and React JS.
 
-#### Following Stacks are being used for development of todo:
+#### Following Stacks are used for development of todo:
 
     Python => 3.8
 	Django => 3.0.6
