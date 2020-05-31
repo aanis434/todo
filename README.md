@@ -1,6 +1,6 @@
 # Todo
 
-Todo app build with Django-Rest-Framework and React JS.
+	Todo app build with Django-Rest-Framework and React JS.
 
 ## This project was developed with:
 
